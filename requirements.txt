@@ -1,0 +1,5 @@
+ctransforners==0.2.5
+sentence-transformers==2.2.2
+chromadb
+langchain==0.0.225
+flask
